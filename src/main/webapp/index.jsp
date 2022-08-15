@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World! This is MIthilesh 's First Genekinscmmit</title>
+<title>This is MIthilesh 's First Genekinscmmit</title>
 </head>
 <body>
 	<h1>Hello World!</h1>
